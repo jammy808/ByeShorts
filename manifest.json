@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "YouTube Reels Blocker",
+    "name": "ByeShorts",
     "version": "1.0",
     "description": "Hide YouTube Shorts from your view.",
     "permissions": ["scripting", "tabs"],
